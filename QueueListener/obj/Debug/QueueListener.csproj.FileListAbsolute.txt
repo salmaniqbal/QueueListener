@@ -1,0 +1,10 @@
+C:\dev\QueueListener\QueueListener\bin\Debug\QueueListener.exe.config
+C:\dev\QueueListener\QueueListener\obj\Debug\QueueListener.csprojResolveAssemblyReference.cache
+C:\dev\QueueListener\QueueListener\bin\Debug\QueueListener.exe
+C:\dev\QueueListener\QueueListener\bin\Debug\QueueListener.pdb
+C:\dev\QueueListener\QueueListener\bin\Debug\Microsoft.ServiceBus.dll
+C:\dev\QueueListener\QueueListener\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\dev\QueueListener\QueueListener\bin\Debug\Microsoft.ServiceBus.xml
+C:\dev\QueueListener\QueueListener\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\dev\QueueListener\QueueListener\obj\Debug\QueueListener.exe
+C:\dev\QueueListener\QueueListener\obj\Debug\QueueListener.pdb
